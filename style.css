@@ -1,0 +1,169 @@
+.navbar{
+    background-color: lightcoral;
+        }
+
+.navbar-brand{
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    color: bisque;
+    text-transform: uppercase;
+font-weight: bold;
+
+}
+.nav-link {
+color: bisque;
+font-size: large;
+text-transform: uppercase;
+font-weight: bold;
+}
+.collapse navbar-collapse{
+  padding-right: 20px;
+}
+.age{
+  text-align: center;
+  font-size: 200%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+}
+.item{
+  font-size: 400%;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  font-style:italic;
+  text-shadow: 3px 3px 8px black;
+  color: blue;
+ 
+}
+
+h5{
+  font-size: xx-large;
+  font-weight: bolder;
+  
+  color: black;
+}
+.heading{
+  font-size: 400%;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  font-style:italic;
+  text-shadow: 3px 3px 8px black;
+  color:red;
+
+}
+.policy {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  ;
+  
+}
+.privacy-policy {
+
+  text-align: center;
+  font-size: 400%;
+  font-style:italic;
+   text-shadow: 3px 3px 8px black;
+   color: blue; 
+  padding-bottom: 10px;
+  border-bottom: 1px solid blue;
+}
+.privacy {
+  font-size: 1.5em;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+  margin-right: 10%;
+}
+.question {
+  padding: 10px 0;
+}
+.text{
+  font-size: larger;
+  text-align: center;
+}
+body {
+  font-family: Arial, sans-serif;
+     line-height: 1.6;
+ }
+ .exchange-policy {
+     text-align: center;
+font-size: 400%;
+font-style:italic;
+text-shadow: 3px 3px 8px black;
+color: blue; 
+padding-bottom: 10px;
+border-bottom: 1px solid blue;
+ }
+ .welcome { 
+     text-align: center;
+     font-size: 1.5em;
+     padding-bottom: 5px;
+     border-bottom: 1px solid #ddd;
+ }
+ .description {
+     font-size: larger;
+     padding: 10px 0;
+ }
+ .about-us {
+  padding-top: 100px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.head {
+  background-color: #f4f4f4;
+  padding: 20px;
+  text-align: center;
+}
+
+
+.section {
+  margin-bottom: 20px;
+}
+
+.us {
+  font-size: 35px;
+  margin-bottom: 10px;
+  color: mediumblue;
+}
+
+.vision{
+  margin-bottom: 10px;
+}
+.about{
+  text-align: center;
+font-size: 5rem;
+font-style:italic;
+text-shadow: 3px 3px 8px black;
+color: blue; 
+/* padding-bottom: 10px; */
+border-bottom: 1px solid blue;
+}
+.phone-email{
+  margin-bottom: 10px;
+  font-size: larger;
+}
+.singup{
+  /* float:right; */
+  width: 70%;
+  padding: 20px;
+  height: 200px;}
+form{
+  display: flex;
+}
+.pt-4{
+  background-color:lightcoral;
+  font-size: large;
+  font-weight: bold;
+  color: bisque;
+  text-transform: uppercase;
+  font-weight: bold;
+/* margin-top: 2rem; */
+}
+footer{
+  position: relative;
+  top: 15rem;
+  background-color:lightcoral;
+  font-size: large;
+  font-weight: bold;
+  color: bisque;
+  text-transform: uppercase;
+  font-weight: bold;
+}
